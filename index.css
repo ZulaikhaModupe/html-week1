@@ -1,0 +1,67 @@
+h1 {
+    color: blue; 
+    font-size: 12px;}
+
+    p {
+        color: green;
+    }
+
+    /* Syntax */
+    /*  class selector
+    
+    .className
+     */
+
+     .custom{
+        color:brown
+     }
+
+     /* id selector
+     #idname */
+
+     #custom2 {
+        color: blueviolet;
+        background-color: aqua;
+     }
+
+     body {
+        background-color: cornsilk;
+     }
+
+
+
+     /* color #43a5be */
+     .sleeping1 {
+        /* background-color: #43a5be;
+        color: white; */
+
+        background-color: rgb(255, 0, 0);
+     }
+
+     /* color #d49137 */
+     .sleeping2 {
+        /* background-color: #d49137;
+        color: white; */
+        background-color: rgb(192, 192, 192);
+     }
+
+     /* color#bf2c34 */
+
+     .sleeping3 {
+        /* background-color: #bf2c34;
+        color: white; */
+        background-color: rgb(0, 255, 255);
+        
+     }
+
+     .sample {
+        background-color: white;
+        /* margin: 10px 20px 2px 2px; top right bottom left*/
+        /* margin: 20px 2px; vertical horizontal */
+        /* margin: auto; */
+        /* border: 2px solid green; */
+        border-left: 10px solid green;
+        padding: 20px;
+     }
+
+     

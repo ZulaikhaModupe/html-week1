@@ -1,0 +1,19 @@
+div {
+    /* color: blueviolet; */
+    /* text-decoration: wavy line-through blue 2px; */
+    /* text-align: center; */
+    /* letter-spacing: 5px; */
+    /* width: 700px; */
+    /* height: 500px; */
+    border: 1px solid black;
+    margin: 50px;
+    max-height: 100px;
+    /* min-width: 200px; */
+    overflow: hidden;
+
+    font-size: 30px;
+    font-style: italic;
+    line-height: 50px;
+    font-weight: 10;
+    font-family: 'Courier New', Courier, monospace
+}

@@ -1,0 +1,30 @@
+body {
+    background-color: #1d2a35; color: white;
+}
+
+#allsides {
+    margin: 20px; 
+    border: 2px solid black;
+    padding: 20px;
+}
+
+#redbottom {
+    margin: 20px;
+    padding: 20px;
+    border-bottom: 2px solid red;
+}
+
+#roundedbottom {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+#blueleftborder {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ddffff;
+    color: #2196f3;
+    border-left: 5px solid #2196f3;
+}
